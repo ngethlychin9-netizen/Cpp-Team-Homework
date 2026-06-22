@@ -10,6 +10,7 @@ int main(){
     cout << "Lychin Total: " << total << endl;
     cout << "hello Bit Sopheaktra" << endl;
     cout << "Can you see my branch?" << endl;
-    
+    cout << "hello world! add more commit" << endl;
+
     return 0;
 }
